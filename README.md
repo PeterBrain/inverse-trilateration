@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/peterbrain/inverse-trilateration.svg?style=social&label=Fork)]()
 
 [![GitHub author](https://img.shields.io/badge/Author-PeterBrain-3BCDD6.svg)](http://peterbrain.github.io)
-[![GitHub author](https://img.shields.io/badge/language-JavaScript-F7DF1E.svg)]()
+[![GitHub author](https://img.shields.io/badge/language-JavaScript-F1BF26.svg)]()
 
 # Inverse Trilateration
 Returns the reference points
